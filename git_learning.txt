@@ -1,0 +1,6 @@
+
+
+git demo on learning
+1. how it works
+2.its features 
+how to create a repo etc
